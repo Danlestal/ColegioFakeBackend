@@ -1,8 +1,11 @@
 {
     "Student": {
-        "ID": "1",
-        "Name": "Dani",
-        "Surname": "Vazquez Romero"
+        "Name": "string",
+        "Surname": "string",
+        "Age": "int",
+        "BornAt": "date",
+        "RegistedAt": "date",
+        "comments": "Comment[]"
       },
     "Comment": {
       "body": "string",
